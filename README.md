@@ -39,9 +39,9 @@ This assignment is about making the trucks
 
 ![Trucks](Images/Skateboard-Truck%20Image.PNG)
 
-<img src="Images/Skateboard-Truck Image.PNG" alt="Skate board truck" width="400" height="400">
-<img src="Images/Skateboard-Truck Image (Side).PNG" alt="Skate board truck side view" width="400" height="400">
-<img src="Images/Skateboard-Truck Image (Orthographic).PNG" alt="Skate board truck Orthographic view" width="400" height="400">
+<img src="Images/Skateboard-Truck Image.PNG" alt="Skate board truck" width="300" height="300">
+<img src="Images/Skateboard-Truck Image (Side).PNG" alt="Skate board truck side view" width="300" height="300">
+<img src="Images/Skateboard-Truck Image (Orthographic).PNG" alt="Skate board truck Orthographic view" width="300" height="300">
 
 ## Reflection
 
