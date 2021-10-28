@@ -44,7 +44,7 @@ This assignment is about making the trucks
 
 ## Reflection
 
-This assignment was a Bit difficult because I didn't know if the Truck Hanger was at the right spot even after following the instructions. Even after creating it, I had to add the ledge that holds the Hanger in place which I missed in the instructions with the bushing. I added the ledge after completing the whole truck.
+This assignment was a Bit difficult because I didn't know if the Truck Hanger was at the right spot even after following the instructions. Even after creating it, I had to add the ledge that holds the Hanger in place. I added the ledge after completing the whole truck.
 
 
 ---
