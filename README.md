@@ -90,7 +90,7 @@ This assignment was realy simple. Using **revolve** can make editing size, and m
 
 ### Destricption
 
-This was the final assembly of the whole skateboard in which 8 bolts were added to the holes using **replicate**. This function was used for the nuts and bolts on the wheels and the *Truck Baseplate.* 
+This is the final assembly of the whole skateboard in which 8 bolts were added to the holes using **replicate**. This function was used for the nuts and bolts on the wheels and the *Truck Baseplate.* The Hanger is connected with two **Hex Machine screw nuts 3/8-24** the wheels are connected with four **Hex Machine screw nuts 5/16-24** the base plate is connected with eight **Hex Machine screws #10-32** 
 
 ### Evidence
 
