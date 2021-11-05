@@ -153,7 +153,7 @@ This assignment was really easy because we just made a chart for each of the bri
 
 
 
-### Designing the Duck
+## Designing the Duck
 
 ### Description
 
@@ -182,3 +182,17 @@ This assignment was really fun and easy. Using **snap mode** really made the tas
 
 
 
+
+
+## Designing the Multi-tool
+
+### Description
+
+This is about making a **multi-tool** in *Onshape*. the tool is **85 mm in height & lenght**. the outer edge is **15mm** in length from the inner edge/line. there are **4** circles **3mm in diameter** and are **5mm** away from the *vertical* line, and **8** circles with the same dimentions from the *horizontal* line The **arc** is **coincident** with the *origin*, and has **3** circles *(same dimentions+mesurments as the other circles)* **15 degrees** apart. The inside edges are **7.5mm** in **scetch fillet**.
+
+### Evidence
+
+### Image
+
+### Reflection
+this assignment was easy b/c most of the functions were already done previusly. If you are trying to add degrees to a part, use **construct** tool to help you add angles and percice measurments. Also, you the **three point arc** or **center point arc** to help you make the *arc*.
