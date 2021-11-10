@@ -196,3 +196,27 @@ This is about making a **multi-tool** in *Onshape*. the tool is **85 mm in heigh
 
 ### Reflection
 this assignment was easy b/c most of the functions were already done previusly. If you are trying to add degrees to a part, use **construct** tool to help you add angles and percice measurments. Also, you the **three point arc** or **center point arc** to help you make the *arc*.
+
+
+
+
+
+---
+
+
+
+
+## Designing The Multi-Tool Final
+
+### Description
+
+The part of the assignment is about exporting and laser cutting the *multi-tool*. The ***export*** button on the *tabs* screen when you right click on the **drawing tab** is used for *exporting* the CAD to be printed or laser cutted. the drawing was in **DXF***format*,**release 14***version*,**all**sheets,**showing underlines*, **explod into polylines***text*, and **download** options. When exported, the drawing was moved into a leser cutting folder,*(can be made by yourself)*, then it was laser cutted.
+
+
+### Evidence
+
+### Image
+
+### Reflection
+
+This assignment was good and showed how to **Export** a  *part studio* and laser cut it. If you want to laser cut, always have a **drawing**, **moved** to the **corner** of the **sheet**, **lines drawn** to separate the object, and as an extra causion piece, add a **name**.
