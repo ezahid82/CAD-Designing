@@ -196,6 +196,8 @@ This is about making a **multi-tool** in *Onshape*. the tool is **85 mm in heigh
 
 ### Image
 
+![Multi-Tool](Images/Multi-Tool%20(part1).PNG)
+<img src="Images/Multi-Tool (part 1 sketch).PNG" alt="multi tool part 1 sketch" width="400" height="400">
 ### Reflection
 this assignment was easy b/c most of the functions were already done previusly. If you are trying to add degrees to a part, use **construct** tool to help you add angles and percice measurments. Also, you the **three point arc** or **center point arc** to help you make the *arc*.
 
@@ -220,6 +222,8 @@ The part of the assignment is about exporting and laser cutting the *multi-tool*
 [Multi-Tool with wrench hole](https://cvilleschools.onshape.com/documents/a7e762b6f05a275e1055a3d0/w/7b28d46ca67af1a9a9142195/e/51f33a1b3e9c5eb2e580f5b5)
 
 ### Image
+
+![Multi-Tool with wrench a hole](Images/Multi-Tool%20(wrench%20hole).PNG)
 
 ### Reflection
 
